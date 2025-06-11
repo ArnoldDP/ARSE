@@ -57,6 +57,7 @@ T.N.G.
 <details closed>
 <summary>Click me for details</summary>
 <br>
+  ### Coming soon!
 </details>
 
 ## Important stuff
@@ -92,7 +93,7 @@ T.N.G.
 <details closed>
   <summary>Click for more information</summary>
   
-  Coming soon!
+ ### Coming soon!
   
   </details>
   
