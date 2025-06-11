@@ -55,7 +55,7 @@ T.N.G.
 
 <details open>
 <summary>Click me for more details</summary>
-<br>]
+<br>
 
 >Keyboard Controls
 
