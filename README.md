@@ -57,18 +57,19 @@ T.N.G.
 <summary>Click me for more details</summary>
 <br>
 
+### Load Order Library
+
 [A.R.S.E. Load Order Library](https://loadorderlibrary.com/lists/arse)
 
+### Preview
 
-[A video preview I made](https://youtu.be/zbw_FbQ901U?si=wgbMjUDoQgSEZWHu)
+[I had a lot of fun making it lmao](https://youtu.be/zbw_FbQ901U?si=wgbMjUDoQgSEZWHu)
 
-I had a lot of fun making it lmao
-
->Keyboard Controls
+### Keyboard Controls
 
 ![keyboard-layout](https://github.com/user-attachments/assets/6cdde82d-b0fe-4f3c-9063-61affe2a905d)
 
->Controller Controls
+### Controller Controls
 
 ![Layout 400](https://github.com/user-attachments/assets/1ebff314-f9bd-44a5-b7ad-5b9c4d8b953e)
 
