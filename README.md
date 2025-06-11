@@ -45,3 +45,16 @@ T.N.G.
 <summary>Click me for details</summary>
 <br>
 </details>
+
+## A Quick Rundown
+
+<details open>
+<summary>Click me for more details</summary>
+<br>]
+
+>Keyboard Controls
+
+>Controller Controls
+
+![Layout 400](https://github.com/user-attachments/assets/1ebff314-f9bd-44a5-b7ad-5b9c4d8b953e)
+
