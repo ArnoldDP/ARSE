@@ -38,3 +38,10 @@ T.N.G.
 ![shrek-somebody](https://github.com/user-attachments/assets/4bc27c98-419c-43ff-b8ac-5562b698d38f)
 
 </details>
+
+## Installation
+
+<details open>
+<summary></summary>
+<br>
+</details>
