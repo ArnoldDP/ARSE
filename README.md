@@ -1,12 +1,10 @@
-# ARSE
-
-## Welcome to Arnold's Requiem of Sensual Experiences 
+# Welcome to Arnold's Requiem of Sensual Experiences 
 
 ![Arse](https://github.com/user-attachments/assets/e9c73870-22ce-4831-8e0e-dc24e31af478)
 
 A simple Requiem list with blackjack and hookers
 
-This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way. Everything from combat to sleeping has been overhauled and given more depth.
+This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way.
 
 ## FAQ
 <details open>
