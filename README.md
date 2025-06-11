@@ -109,28 +109,49 @@ shxdowsoul
 ### Cool people that frequently help out around the server, provided input, or contributed to one of the lists I run:
 
 Ermo
+
 Arttumiro
+
 Clueless
+
 Dingo
+
 Glathos
+
 Paimal
+
 Sizif
+
 Sswaye
+
 superclwon
+
 Vacility
+
 Vyra Love
+
 Khaiya
+
 *Hard F* Wheeler (tumu)
+
 Jami
+
 rehtrez
+
 Jengle
 
 ### Other list authors that I stole ideas from like a dickhead:
 
 Herr Schtevie
+
 TwistedModding
+
 biggie_boss
+
 Alaxouche
+
 Ouroboros
+
 Its_Ivy
+
 Ghoulified
