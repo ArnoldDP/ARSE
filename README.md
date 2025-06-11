@@ -1,8 +1,8 @@
 # ARSE
 
-Welcome to A.R.S.E. or Arnold's Requiem of Sensual Experiences
+Welcome to A.R.S.E.
 
-The one and only Requiem list featuring OStim (for now)
+A simple Requiem list with blackjack and hookers
 
 This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way. Everything from combat to sleeping has been overhauled and given more depth.
 
@@ -56,6 +56,14 @@ T.N.G.
 <details open>
 <summary>Click me for more details</summary>
 <br>
+
+>Load Order Library
+
+[A.R.S.E.](https://loadorderlibrary.com/lists/arse)
+
+>Video Preview
+
+[I made this and its mediocre but I had a lot of fun doing it](https://youtu.be/zbw_FbQ901U?si=wgbMjUDoQgSEZWHu)
 
 >Keyboard Controls
 
