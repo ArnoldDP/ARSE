@@ -51,7 +51,7 @@ T.N.G.
 <br>
 </details>
 
-## A Quick Rundown
+## Important stuff
 
 <details open>
 <summary>Click me for more details</summary>
@@ -64,6 +64,10 @@ T.N.G.
 ### Preview
 
 [I had a lot of fun making it lmao](https://youtu.be/zbw_FbQ901U?si=wgbMjUDoQgSEZWHu)
+
+### Discord Server
+
+[OCM Discord](https://discord.gg/vYkTp86CcZ) (grab the ARSE role)
 
 ### Keyboard Controls
 
