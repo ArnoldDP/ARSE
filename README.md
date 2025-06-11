@@ -77,6 +77,7 @@ T.N.G.
 
 ![Layout 400](https://github.com/user-attachments/assets/1ebff314-f9bd-44a5-b7ad-5b9c4d8b953e)
 
+</details>
 ## Credits
 <details open>
 <summary>Click for more information</summary>
