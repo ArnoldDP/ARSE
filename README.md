@@ -4,7 +4,7 @@
 
 ## A simple Requiem list with blackjack and hookers
 
-### This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way.
+This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way.
 
 ## FAQ
 <details closed>
