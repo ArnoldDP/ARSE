@@ -29,6 +29,11 @@ I don't like Bethesda's scummy monetization methods and I will not force anyone 
 
 Sure! Cabbage, Pi-Cho, and Kauz are included but if you don't like any of those, there are plenty of ENB presets out there to try out
 
+>does this list support controller?
+
+Yep! Just scroll down to the botom and you'll see a separator labeled "Controller Optionals"
+Enable both the mods in there and you should be good to go
+
 > What body mod does it use for men?
 
 T.N.G. 
@@ -53,6 +58,8 @@ T.N.G.
 <br>]
 
 >Keyboard Controls
+
+![keyboard-layout](https://github.com/user-attachments/assets/6cdde82d-b0fe-4f3c-9063-61affe2a905d)
 
 >Controller Controls
 
