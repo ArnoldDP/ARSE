@@ -11,6 +11,14 @@ This is a semi-lightweight and gameplay focused list designed to be engaging eve
 <summary>Click me for details</summary>
 <br>
 
+### How much storage do I need?
+
+Technically only 308gb, but I'd say 350gb to stay on the safe side during installation. You can delete the downloads folder after the list is installed to cut it down to around 200gb
+
+### How heavy is this list?
+
+I tried to keep it somewhat performance friendly. I'd recommend at least 16gbs of ram with a 40gb [pagefile](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html), a 5600x, and a 3060 ti. Although I have seen people run it on lower end hardware during testing.
+
 ### My performance is bad, is there anything I can do?
 
 ```¯\_(ツ)_/¯ ```
