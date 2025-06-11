@@ -76,21 +76,34 @@ I had a lot of fun making it lmao
 <details open>
 <summary>Click for more information</summary>
 
-### The Modding Bungalo - I thought I knew a lot of shit but they taught me a lot more
+### Discord Servers
 
-### OStim Standalone Official - Just a lot of pretty cool people there
+Wabbajack 
 
-### Wabbajack devs and server moderators
+Community Shaders
+
+The Modding Bungalo
+
+OStim Standalone Official
+
+Skyforge Workshop
 
 ### My server moderators: 
 
 Alabast
+
 Ambiguzen
+
 Charlistic
+
 HDMFanatic (hardcrafter)
+
 Khaos
+
 Naomi
+
 Shin
+
 shxdowsoul
 
 ### Cool people that frequently help out around the server, provided input, or contributed to one of the lists I run:
