@@ -2,9 +2,9 @@
 
 ![Arse](https://github.com/user-attachments/assets/e9c73870-22ce-4831-8e0e-dc24e31af478)
 
-A simple Requiem list with blackjack and hookers
+## A simple Requiem list with blackjack and hookers
 
-This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way.
+### This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way.
 
 ## FAQ
 <details closed>
@@ -17,7 +17,7 @@ Technically only 308gb, but I'd say 350gb to stay on the safe side during instal
 
 ### How heavy is this list?
 
-I tried to keep it somewhat performance friendly. I'd recommend at least 16gbs of ram with a 40gb [pagefile](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html), a 5600x, and a 3060 ti. Although I have seen people run it on lower end hardware during testing.
+I tried to keep it somewhat performance friendly. I'd recommend at least 32gbs of ram with a 40gb [pagefile](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html), a 5600x, and a 3060 ti. Although I have seen people run it on lower end hardware during testing. Please note that while it is possible to run with 16gbs of ram, you may run into some stability issues. 
 
 ### My performance is bad, is there anything I can do?
 
@@ -87,6 +87,15 @@ T.N.G.
 
 </details>
 
+## Tips and Advice
+
+<details closed>
+  <summary>Click for more information</summary>
+  
+  Coming soon!
+  
+  </details>
+  
 ## Credits
 
 <details closed>
