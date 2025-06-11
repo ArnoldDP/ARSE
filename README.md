@@ -8,7 +8,7 @@ This is a semi-lightweight and gameplay focused list designed to be engaging eve
 
 ## FAQ
 <details open>
-<summary></summary>
+<summary>Click me for details</summary>
 <br>
 
 >My performance is bad, is there anything I can do?
@@ -42,6 +42,6 @@ T.N.G.
 ## Installation
 
 <details open>
-<summary></summary>
+<summary>Click me for details</summary>
 <br>
 </details>
