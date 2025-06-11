@@ -57,13 +57,12 @@ T.N.G.
 <summary>Click me for more details</summary>
 <br>
 
->Load Order Library
+[A.R.S.E. Load Order Library](https://loadorderlibrary.com/lists/arse)
 
-[A.R.S.E.](https://loadorderlibrary.com/lists/arse)
 
->Video Preview
+[A video preview I made](https://youtu.be/zbw_FbQ901U?si=wgbMjUDoQgSEZWHu)
 
-[I made this and its mediocre but I had a lot of fun doing it](https://youtu.be/zbw_FbQ901U?si=wgbMjUDoQgSEZWHu)
+I had a lot of fun making it lmao
 
 >Keyboard Controls
 
@@ -73,3 +72,50 @@ T.N.G.
 
 ![Layout 400](https://github.com/user-attachments/assets/1ebff314-f9bd-44a5-b7ad-5b9c4d8b953e)
 
+## Credits
+<details open>
+<summary>Click for more information</summary>
+
+The Modding Bungalo - I thought I knew a lot of shit but they taught me a lot more
+
+OStim Standalone Official - Just a lot of pretty cool people there
+
+Halagari - Wabbajack dev
+
+My server moderators: 
+
+Alabast
+Ambiguzen
+Charlistic
+HDMFanatic (hardcrafter)
+Khaos
+Naomi
+Shin
+shxdowsoul
+
+Cool people that frequently help out around the server, provided input, or contributed to one of the lists I run:
+
+Ermo
+Arttumiro
+Clueless
+Dingo
+Glathos
+Paimal
+Sizif
+Sswaye
+superclwon
+Vacility
+Vyra Love
+Khaiya
+*Hard F* Wheeler (tumu)
+Jami
+rehtrez
+Jengle
+
+Other list authors that I stole ideas from like a dickhead:
+
+Herr Schtevie
+TwistedModding
+biggie_boss
+Alaxouche
+Ouroboros
