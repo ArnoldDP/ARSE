@@ -2,7 +2,7 @@
 
 ## Welcome to Arnold's Requiem of Sensual Experiences 
 
-(Credits to HDMFanatic for the name lol)
+![Arse](https://github.com/user-attachments/assets/e9c73870-22ce-4831-8e0e-dc24e31af478)
 
 A simple Requiem list with blackjack and hookers
 
