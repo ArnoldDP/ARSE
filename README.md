@@ -2,14 +2,20 @@
 
 Welcome to A.R.S.E. or Arnold's Requiem of Sensual Experiences
 
-The one and only Requiem list featuring OStim :^) (for now)
+The one and only Requiem list featuring OStim (for now)
 
-This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way. Nearly every single thing has been overhauled and given more depth, even sleeping.
+This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way. Everything from combat to sleeping has been overhauled and given more depth.
 
 ## FAQ
 <details open>
 <summary></summary>
 <br>
+
+>My performance is bad, is there anything I can do?
+
+¯\_(ツ)_/¯ 
+
+I'm working on a few things like custom occlusion, but unless you're very good at modding, there's not much you can do other than wait or upgrade your PC
 
 >This list is hard, can I decrease the difficulty?
 
@@ -30,8 +36,5 @@ T.N.G.
 >What body mod does it use for women?
 
 ![shrek-somebody](https://github.com/user-attachments/assets/4bc27c98-419c-43ff-b8ac-5562b698d38f)
-
-
-
 
 </details>
