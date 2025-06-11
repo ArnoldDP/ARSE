@@ -44,7 +44,7 @@ Enable both the mods in there and you should be good to go
 
 ### What body mod does it use for men?
 
-T.N.G. 
+![image](https://github.com/user-attachments/assets/3f727ab4-d201-4cd9-a397-a9843a8080bd)
 
 ### What body mod does it use for women?
 
