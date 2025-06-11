@@ -30,8 +30,6 @@ T.N.G.
 
 >What body mod does it use for women?
 
-<iframe
-  src="https://tenor.com/view/shrek-somebody-toilet-hi-gif-17332899"
-  style="width:100%; height:300px;"
-></iframe>
+![hippo](https://tenor.com/view/shrek-somebody-toilet-hi-gif-17332899)
+
 </details>
