@@ -7,7 +7,7 @@ A simple Requiem list with blackjack and hookers
 This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way.
 
 ## FAQ
-<details open>
+<details closed>
 <summary>Click me for details</summary>
 <br>
 
@@ -54,14 +54,14 @@ T.N.G.
 
 ## Installation
 
-<details open>
+<details closed>
 <summary>Click me for details</summary>
 <br>
 </details>
 
 ## Important stuff
 
-<details open>
+<details closed>
 <summary>Click me for more details</summary>
 <br>
 
@@ -89,7 +89,7 @@ T.N.G.
 
 ## Credits
 
-<details open>
+<details closed>
 <summary>Click for more information</summary>
 
 ### Discord Servers
