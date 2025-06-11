@@ -39,7 +39,7 @@ Sure! Cabbage, Pi-Cho, and Kauz are included but if you don't like any of those,
 
 ### does this list support controller?
 
-Yep! Just scroll down to the botom and you'll see a separator labeled "Controller Optionals"
+Yep! Just scroll down to the bottom and you'll see a separator labeled "Controller Optionals"
 Enable both the mods in there and you should be good to go
 
 ### What body mod does it use for men?
