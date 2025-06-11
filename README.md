@@ -11,13 +11,13 @@ This is a semi-lightweight and gameplay focused list designed to be engaging eve
 <summary>Click me for details</summary>
 <br>
 
->My performance is bad, is there anything I can do?
+### My performance is bad, is there anything I can do?
 
 ```¯\_(ツ)_/¯ ```
 
 I'm working on a few things like custom occlusion, but unless you're very good at modding, there's not much you can do other than wait or upgrade your PC
 
->This list is hard, can I decrease the difficulty?
+### This list is hard, can I decrease the difficulty?
 
 Kind of? Requiem lite is included and makes things like stamina a bit easier to manage, but it is still going to be more difficult than vanilla skyrim
 
@@ -25,20 +25,20 @@ Kind of? Requiem lite is included and makes things like stamina a bit easier to 
 
 I don't like Bethesda's scummy monetization methods and I will not force anyone to pay for the CC in order to play the list. I want this to be as accessible as possible
 
->I dont like the ENB, can I change it?
+### I dont like the ENB, can I change it?
 
 Sure! Cabbage, Pi-Cho, and Kauz are included but if you don't like any of those, there are plenty of ENB presets out there to try out
 
->does this list support controller?
+### does this list support controller?
 
 Yep! Just scroll down to the botom and you'll see a separator labeled "Controller Optionals"
 Enable both the mods in there and you should be good to go
 
-> What body mod does it use for men?
+### What body mod does it use for men?
 
 T.N.G. 
 
->What body mod does it use for women?
+### What body mod does it use for women?
 
 ![shrek-somebody](https://github.com/user-attachments/assets/4bc27c98-419c-43ff-b8ac-5562b698d38f)
 
@@ -119,3 +119,5 @@ TwistedModding
 biggie_boss
 Alaxouche
 Ouroboros
+Its_Ivy
+Ghoulified
