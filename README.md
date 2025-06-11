@@ -21,7 +21,7 @@ I'm working on a few things like custom occlusion, but unless you're very good a
 
 Kind of? Requiem lite is included and makes things like stamina a bit easier to manage, but it is still going to be more difficult than vanilla skyrim
 
->Why no CC content?
+### Why no CC content?
 
 I don't like Bethesda's scummy monetization methods and I will not force anyone to pay for the CC in order to play the list. I want this to be as accessible as possible
 
@@ -76,13 +76,13 @@ I had a lot of fun making it lmao
 <details open>
 <summary>Click for more information</summary>
 
-The Modding Bungalo - I thought I knew a lot of shit but they taught me a lot more
+### The Modding Bungalo - I thought I knew a lot of shit but they taught me a lot more
 
-OStim Standalone Official - Just a lot of pretty cool people there
+### OStim Standalone Official - Just a lot of pretty cool people there
 
-Halagari - Wabbajack dev
+### Wabbajack devs and server moderators
 
-My server moderators: 
+### My server moderators: 
 
 Alabast
 Ambiguzen
@@ -93,7 +93,7 @@ Naomi
 Shin
 shxdowsoul
 
-Cool people that frequently help out around the server, provided input, or contributed to one of the lists I run:
+### Cool people that frequently help out around the server, provided input, or contributed to one of the lists I run:
 
 Ermo
 Arttumiro
@@ -112,7 +112,7 @@ Jami
 rehtrez
 Jengle
 
-Other list authors that I stole ideas from like a dickhead:
+### Other list authors that I stole ideas from like a dickhead:
 
 Herr Schtevie
 TwistedModding
