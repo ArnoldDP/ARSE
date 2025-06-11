@@ -13,7 +13,7 @@ This is a semi-lightweight and gameplay focused list designed to be engaging eve
 
 >My performance is bad, is there anything I can do?
 
-¯\_(ツ)_/¯ 
+```¯\_(ツ)_/¯ ```
 
 I'm working on a few things like custom occlusion, but unless you're very good at modding, there's not much you can do other than wait or upgrade your PC
 
