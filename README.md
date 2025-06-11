@@ -29,7 +29,8 @@ Sure! Cabbage, Pi-Cho, and Kauz are included but if you don't like any of those,
 T.N.G. 
 
 >What body mod does it use for women?
+>
+![image](https://github.com/user-attachments/assets/21054eb8-d592-4808-8fe1-734af60839be)
 
-![hippo](https://tenor.com/view/shrek-somebody-toilet-hi-gif-17332899)
 
 </details>
