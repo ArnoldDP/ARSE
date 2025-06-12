@@ -121,6 +121,16 @@ Just select the download and install folders
 
 ### PLEASE DO NOT INSTALL WABBAJACK LISTS TO THE SAME FOLDER THAT YOU HAVE THE WABBAJACK CLIENT INSTALLED, THINGS WILL PROBABLY BREAK
 
+### Running the game
+
+1. Navigate to where you installed the list
+
+2. Launch ModOrganizer.exe
+
+3. Click the "Run" button in the top right
+
+4. **(OPTIONAL)** If you don't want to launch MO2 every time you go to play the list, you can click the shortcut button on the bottom right to create a shortcut that launches the list directly. 
+
 </details>
 
 ## Important stuff
