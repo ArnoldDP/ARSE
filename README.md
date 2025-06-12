@@ -89,6 +89,21 @@ This is required software to run this and, as far as I'm aware, any other Wabbaj
 
 7. Exit the game
 
+### Wabbajack Setup
+
+1. [Wabbajack](https://www.wabbajack.org)
+
+   Click the big purple download button
+
+2. Install it to a folder that isn't in your documents folder or the root of a drive
+
+3. Launch the Wabbajack client
+
+4. Click the settings button in the bottom left
+
+5. Log into your Nexus account
+
+   
 </details>
 
 ## Important stuff
