@@ -57,7 +57,7 @@ Enable both the mods in there and you should be good to go
 <details closed>
 <summary>Click me for details</summary>
   
-### Setup
+### Pre-installation Requirements
 
 1. [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
@@ -70,6 +70,24 @@ Enable both the mods in there and you should be good to go
 3. [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
    ![image](https://github.com/user-attachments/assets/224e312b-a484-4469-a475-cec66f404106)
+
+This is required software to run this and, as far as I'm aware, any other Wabbajack list. Most of you probably have this installed already, but it never hurts to double check.
+
+### Clean Skyrim Installation
+
+1. Install Skyrim Special Edition through Steam. If you already have it installed, verify the integrity of your game files.
+
+2. Navigate to your Steam Skyrim Data folder
+
+3. Within the data folder, delete the 2 curios files ccbgssse037-curios.bsa and ccbgssse037-curios.esl
+
+4. Launch Skyrim from Steam
+
+5. Select Creations from the main menu
+
+6. Search for the Rare Curios mod and download
+
+7. Exit the game
 
 </details>
 
