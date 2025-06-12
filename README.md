@@ -239,7 +239,9 @@ rehtrez
 
 Jengle
 
-### Other list authors that I stole ideas from like a dickhead:
+AlenVex
+
+### Other list authors that I shamelessly steal ideas from:
 
 Herr Schtevie
 
