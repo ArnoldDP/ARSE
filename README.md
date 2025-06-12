@@ -57,7 +57,19 @@ Enable both the mods in there and you should be good to go
 <details closed>
 <summary>Click me for details</summary>
   
-### Coming soon!
+### Setup
+
+1. [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
+   ![image](https://github.com/user-attachments/assets/d5bf9726-8459-4539-8236-b8aadf36603b)
+
+2. [.NET 9.0 SDK](https://dotnet.microsoft.com/en-us/download)
+
+   ![image](https://github.com/user-attachments/assets/01a8419e-edfd-4e6b-b619-c47c25034008)
+
+3. [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
+   ![image](https://github.com/user-attachments/assets/224e312b-a484-4469-a475-cec66f404106)
 
 </details>
 
