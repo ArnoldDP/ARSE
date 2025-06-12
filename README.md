@@ -79,7 +79,7 @@ This is required software to run this and, as far as I'm aware, any other Wabbaj
 
 2. Navigate to your Steam Skyrim Data folder
 
-3. Within the data folder, delete the 2 curios files ccbgssse037-curios.bsa and ccbgssse037-curios.esl
+3. Within the data folder, delete the 2 curios files named ```ccbgssse037-curios.bsa``` and ```ccbgssse037-curios.esl```
 
 4. Launch Skyrim from Steam
 
@@ -103,7 +103,24 @@ This is required software to run this and, as far as I'm aware, any other Wabbaj
 
 5. Log into your Nexus account
 
-   
+### Install A.R.S.E. 
+
+**If you download it from the Wabbajack UI**
+
+Just select the download and install folders
+
+**If you downloaded the file from Nexus**
+
+1. Click "Browse Lists"
+
+2. In the top right, click "Install from Disk"
+
+3. Find the A.R.S.E.wabbajack file that you downloaded
+
+4. Select the download and install folders
+
+### PLEASE DO NOT INSTALL WABBAJACK LISTS TO THE SAME FOLDER THAT YOU HAVE THE WABBAJACK CLIENT INSTALLED, THINGS WILL PROBABLY BREAK
+
 </details>
 
 ## Important stuff
