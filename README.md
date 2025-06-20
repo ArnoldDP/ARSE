@@ -44,11 +44,11 @@ Enable both the mods in there and you should be good to go
 
 ### What body mod does it use for men?
 
-![image](https://github.com/user-attachments/assets/3f727ab4-d201-4cd9-a397-a9843a8080bd)
+The New Gentleman
 
 ### What body mod does it use for women?
 
-![shrek-somebody](https://github.com/user-attachments/assets/4bc27c98-419c-43ff-b8ac-5562b698d38f)
+3ba/SOFTBODY
 
 </details>
 
