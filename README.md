@@ -35,7 +35,7 @@ I don't like Bethesda's scummy monetization methods and I will not force anyone 
 
 ### I dont like the ENB, can I change it?
 
-Sure! Cabbage, Pi-Cho, and Kauz are included but if you don't like any of those, there are plenty of ENB presets out there to try out
+Sure! Cabbage, Pi-Cho, Kauz, Ebony ENB, and something new im working on are all included. Other ENBs may have requirements that aren't included in the list, but if you know what you're doing, it shouldn't be too hard.
 
 ### does this list support controller?
 
