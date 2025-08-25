@@ -177,15 +177,13 @@ Just select the download and install folders
 
 ### Discord Servers
 
-Wabbajack 
+[Wabbajack](https://discord.gg/wabbajack) 
 
-Community Shaders
+[Community Shaders](https://discord.gg/EPVeQcF8)
 
-The Modding Bungalo
+[The Modding Bungalo](https://discord.gg/bungalo)
 
-OStim Standalone Official
-
-Skyforge Workshop
+[OStim Standalone Official](https://discord.gg/kHXKatta)
 
 ### My server moderators: 
 
