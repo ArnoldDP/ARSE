@@ -20,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://github.com/user-attachments/assets/e9c73870-22ce-4831-8e0e-dc24e31af478",
       "readme": "https://github.com/ArnoldDP/ARSE/tree/main",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "JohnsSkyrimMakeover",
-      "discordURL": "https://discord.gg/wabbajack"
+      "download": "https://authored-files.wabbajack.org/ARSE.wabbajack_6f7e8c55-5bcd-4922-aeca-93c25aa28e4b",
+      "machineURL": "tightarse",
+      "discordURL": "https://discord.gg/acHK6AeJ2k"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "FIGx8XoM6f8",
+      "Size": 1318420171,
+      "NumberOfArchives": 1327,
+      "SizeOfArchives": 119288021400,
+      "NumberOfInstalledFiles": 225374718362,
+      "SizeOfInstalledFiles": 344662739762
     },
     "version": "1.0.0"
   }
