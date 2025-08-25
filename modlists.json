@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "ARSE",
+    "description": "Requiem with blackjack and hookers",
+    "author": "Arnold",
+    "maintainers": [
+      "github/ArnoldDP"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Steam",
+      "Dark Fantasy",
+      "Total Overhaul"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": true,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "readme": "https://keizaal.github.io/Keizaal/",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "JohnsSkyrimMakeover",
+      "discordURL": "https://discord.gg/wabbajack"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0.0"
+  }
+]
+
