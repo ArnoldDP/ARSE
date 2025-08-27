@@ -2,7 +2,7 @@
 
 ![Arse](https://github.com/user-attachments/assets/e9c73870-22ce-4831-8e0e-dc24e31af478)
 
-## A simple Requiem list with blackjack and hookers
+## Requiem but lewd
 
 This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way.
 
@@ -13,7 +13,7 @@ This is a semi-lightweight and gameplay focused list designed to be engaging eve
 
 ### How much storage do I need?
 
-Technically only 308gb, but I'd say 350gb to stay on the safe side during installation. You can delete the downloads folder after the list is installed to cut it down to around 200gb
+Technically only 321gb, but I'd say 360gb to stay on the safe side during installation. You can delete the downloads folder after the list is installed to cut it down to around 200gb
 
 ### How heavy is this list?
 
