@@ -44,7 +44,7 @@ Enable both the mods in there and you should be good to go
 
 ### What body mod does it use for men?
 
-The New Gentleman
+HIMBO v5 High Poly
 
 ### What body mod does it use for women?
 
