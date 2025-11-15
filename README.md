@@ -157,7 +157,8 @@ Just select the download and install folders
 
 ### Controller Controls
 
-![Layout 400](https://github.com/user-attachments/assets/1ebff314-f9bd-44a5-b7ad-5b9c4d8b953e)
+![Layout 409](https://github.com/user-attachments/assets/605bd176-e6e5-4d07-bd71-fce294157fa0)
+)
 
 </details>
 
