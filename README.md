@@ -166,7 +166,80 @@ Just select the download and install folders
 <details closed>
   <summary>Click for more information</summary>
   
- ### Coming soon!
+ ### The mini-guide by RaDeum
+
+
+ 
+Requiem
+To start us off A.R.S.E modlist is a requiem based, and so what does that mean in terms of gameplay?
+Firstly let’s go over basic combat mechanics and interactions of the Requiem mod itself.
+ 
+Melee Combat
+Light attack – it now costs stamina to execute, so no more spamming it like there’s no tomorrow, you will have to be mindful of how you approach enemy encounters. 
+(Default keybind: Mouse left click)
+ 
+Heavy attack – uses absolute truck load of stamina but can penetrate through enemy block and inflicts considerable stagger. 
+(Default keybind: Mouse right click; can also be performed via long press of Mouse left click)
+ 
+Blocking – is your best friend and bread and butter during early game, performing timed block allows you to restore some of your stamina, and depending on how well did you block perform sort of a counter attack against your enemy. 
+(Default keybind: V)
+ 
+Dodging – sometimes is easier option, at configurable cost of stamina in the TK Dodge MCM you can completely avoid the damage, dodging gives you Iframes (Invulnerability) for a short time during the action, if timed correctly you can avoid pretty much any damage thrown at you. 
+(Default keybind: Left Alt)
+ 
+Perk interactions – Requiem introduces a lot of changes to the default perk trees, with some interesting interactions, stuff like Bull-rush, which allows you to knock over your foes when sprinting, armor penetration mechanics, physical damage reduction, magical damage reduction, disarm mechanics for PC due to lack of stamina. 
+The respectful perks can be found in the Heavy armor, Two-handed, One-handed, Block, Evasion, perk trees. Evasion perk tree is now the Light armor tree, that can also help with physical damage reduction due to the mechanics introduced in the tree itself. Most of it can be adjusted in the Requiem MCM itself, stuff like Bull-rush can be changed to work only on hostiles, or no disarm when your character doesn’t have enough stamina.
+ 
+Stealth
+Now onto the stealthier side.
+Your armor and has a noise value depending on the type and weight of the armor, said noise can be mitigate via perks from the Sneak tree, enchatments, spell from the Illusion perk tree, and possible racial bonuses. In order to have sneak attack crit you will have to actually level the sneak tree and put some perk points into it. The sneak crit now works with magic as well, that is if you’ve taken the respective perk in the Sneak perk tree.
+ 
+ 
+Ranged Combat
+How’s the range feeling.
+Due to Requiem vision of combat and perhaps additional combination of mods, killing foes from afar is a bit different.
+Firstly, you now have a new ranged option in form of throwing knives, those can be obtained via buying from weapon and misc vendors or can be crafted by you via smiting. Additionally those knives can be poisend via using special power, from the power menu tab, in the magic menu.
+(Defalut keybind: P).
+Secondly, you have access to the crossbows from the get go.
+Thirdly, you now can enjoy diffrent types/heaviness of the your ranged weapons with the selection of Light bows, Light Crossbows, Heavy Bows, Heavy Crossbows and the throwing knives. The difference is primarily is in the damage output and the speed of reload.
+Lastly, the armor penetration also affects ranged weapons, said penetration can be earned via respective perks in the Marksman perk tree or via enchantmens on the weapons themselves.
+ 
+Alchemy
+Brewing time.
+Alchemy didn’t receive any CACO style changes and additions, but still has some kick to it.
+Primarily, in a form new charcter mutation system, there are several perks in the Alchemy tree that can allow your charcter to see in the dark, or have faster HP regeneration, or be more resistent to magic, or have more atributes. These perks can be taken only when the specified ingredients on the perk itself are present in your inventory, say for the night vision perk you will need a bunch of sabre cat eyes in order to take it.
+Magic
+Unlimited power.
+So you want to be a mage, eh? Eat a book and learn a spell, well there’s twist to it now.
+Due to the Books of Power mod, you now actually need to use the spell in order to add it to your magical repertoir, all spell books are now counted as scrolls and whenever you pick one up it will go to the scrolls section in your inventory, then you can select it in order to use it, after using it a couple times you wil learn the spell that was written in the book. In order to change the amout of times you need to cast a spell or it’s cost/potency you will need to edit the BooksOfPower.json file, that located in the SKSE/Plugins folder.
+Additionally, some additions are present, specificaly for the Destruction school, you now have 3 more branches of magic at your disposal, Blood magic, Enthropy magic and Arcane magic, each with their respective quirks and pros and cons.
+Conjuration has been expaned as well, with the additions of new necrotic magic and new summon types, as well as changes to necromancy which are covered in, at least partially, in their own section.
+Alteration school, now also has some damage spells in it, that rely on powers of Earth and Wind.
+Smithing
+Hammer time.
+Smithing now has a bit more depth to it, you now need to have specific mastery books in your inventory in order to learn a perk from smithing perk tree, that can be disabled in the Requiem MCM.
+Additionally, you can disassemble items via the smelter in order to get some of the resources that were used for crafting that item, in other words if you’ve picked up steel sword you can now disassemble it in the smelter and as result you will get some steel ingots. That’s a pretty effective way of acquiring resources for smithing. Masterwork and Legendary tempering requires you to have a rather high smithing skill for the high-end materials like Daedric or Dragonbone, the skill required is somewhere around 180-200 range in order to craft a masterwork/legendary daedric/dragonbone item.
+Enchanting
+A squirt of lemon so you know it’s nice.
+Enchanting is somewhat similar to what it was in the Vanilla Skyrim, with the exception of the few new additions.
+First, now you can create random enchanted items in order to learn new enchantments, that is if you have a respective perk.
+Second, tripple enchantment is a now avaiable to those who’ve managed to reach the end of enchanting perk tree. And the best part – unlike in many other perk overhauls where it’s one and done, in requiem it resets, so you can take the perk again in order to created an item with tripple enchantment or one extra potent enchantment.
+Worshipping
+Gods exist, want a proof? Check Rule34.
+Restoration and Conjuration schools now have a new perk unassociated perk in them that has 3 levels.
+Restoration is for Benevolent and Aedric entities, and Conjuration is for Malevolent and Daedric entities. Upon reaching the level 3 of the perk, the buff will change into a final and more potent version, that give you some additional bonuses in form of attributes, armor penetration or something else entirely.
+Class System
+Finaly, class warfare.
+In the powers section, in the magic menu, you can select a starting class, each one of the present classes will give you a boost to competencies specified when picking the class. Consider it a bit of boost to whichever archetype you wanted to play as.
+ 
+Necromancy
+Advanced grass touching.
+Practical Necromancy mod adds a new perk tree that can be accessed via a new item that will/should spawn in your inventory after you ressurect your first undead. I highly recommend checking out the mechanics of the mod on it’s own mod page at https://www.nexusmods.com/skyrimspecialedition/mods/29834
+Armor
+How else would you protect your arse from penetration.
+Armor received a bit of a change and now, armor values a way higher than those of Vanilla Skyrim, and a new mechanic of armor penetration.
+Armor penetration works as form of damage control, think of it this way, you can have a weapon that can kill a god but if you don’t have armor penetration said weapon can only be good for swatting mudcrabs. Here is a more detailed breakdown of that mechanic
+https://www.reddit.com/r/skyrimrequiem/comments/644p9f/requiem_analysis_armor_penetration/
   
   </details>
   
