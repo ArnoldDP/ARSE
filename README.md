@@ -2,9 +2,9 @@
 
 ![Arse](https://github.com/user-attachments/assets/e9c73870-22ce-4831-8e0e-dc24e31af478)
 
-## Requiem but lewd
+## Requiem but with sex I guess
 
-This is a semi-lightweight and gameplay focused list designed to be engaging every step of the way.
+This is a simple and semi-lightweight Requiem setup with blackjack, hookers, and some dark fantasy elements built around the principle of "dont get hit". You are made of glass, but so are most human shaped things.
 
 ## FAQ
 <details closed>
@@ -33,22 +33,18 @@ Kind of? Requiem lite is included and makes things like stamina a bit easier to 
 
 I don't like Bethesda's scummy monetization methods and I will not force anyone to pay for the CC in order to play the list. I want this to be as accessible as possible
 
-### I dont like the ENB, can I change it?
+### The ENB is heavy, can I change it?
 
-Sure! Cabbage, Pi-Cho, Kauz, Ebony ENB, and something new im working on are all included. Other ENBs may have requirements that aren't included in the list, but if you know what you're doing, it shouldn't be too hard.
+Sure! I'd recommend Kauz or Ebony to keep with the aesthetic I was going for, but if you want a more neutral look then Cabbage, Pi-Cho, and Amon are also included.
 
 ### does this list support controller?
 
 Yep! Just scroll down to the bottom and you'll see a separator labeled "Controller Optionals"
 Enable both the mods in there and you should be good to go
 
-### What body mod does it use for men?
+### What body mods does this list use?
 
-HIMBO v5 High Poly
-
-### What body mod does it use for women?
-
-3ba/SOFTBODY
+HIMBO v5 High Poly for men and 3BA for women
 
 </details>
 
