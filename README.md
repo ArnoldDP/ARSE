@@ -137,7 +137,7 @@ Just select the download and install folders
 
 ### Load Order Library
 
-[A.R.S.E. Load Order Library](https://loadorderlibrary.com/lists/arse)
+[A.R.S.E. ModlistGrimoire](https://modlistgrimoire.com/modlists/a-r-s-e)
 
 ### Preview
 
